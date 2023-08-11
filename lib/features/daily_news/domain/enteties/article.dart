@@ -35,4 +35,5 @@ class ArticleEntity extends Equatable {
       content,
     ];
   }
+
 }
